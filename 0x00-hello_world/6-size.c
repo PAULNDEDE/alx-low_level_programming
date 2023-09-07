@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point for program
+ * main - The program that print various size of computer types
  *
  * Return: ALways 0 (Success)
  */
