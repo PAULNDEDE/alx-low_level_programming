@@ -2,7 +2,7 @@
 /**
  * main - The program that print various size of computer types
  *
- * Return: ALways 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 { 
